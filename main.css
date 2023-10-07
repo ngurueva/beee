@@ -1,0 +1,32 @@
+body{
+    background-image: url("https://bordads.ucoz.net/board6.jpg");
+    background-attachment: fixed;
+
+}
+.brand{
+    font-family: 'Niconne', cursive; 
+    background-color: #ffe6c599;
+    padding-left: 10%;
+    color: #e9af52; 
+    
+    text-shadow: 2px 2px 2px #492803,
+    4px 4px 0px rgb(0, 0, 0);
+}
+.text{
+    background-color: rgba(255, 223, 181, 0.815); 
+    width: 80%; 
+    margin-left: auto; 
+    margin-right: auto; 
+    padding: 10px;
+    font-family: Verdana, sans-serif;
+}
+.card.text{
+    width: 30%; 
+    border: 5px solid rgb(253, 183, 125); 
+    min-width: 18rem;
+}
+.row{
+    margin-left: auto; 
+    margin-right: auto; 
+    padding: 5px;
+}
